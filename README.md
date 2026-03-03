@@ -139,13 +139,15 @@ That’s it.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Contributors
 
 **Mahaselvan S**
 Information Technology Student
 St. Joseph’s College of Engineering
 
-GitHub: [https://github.com/Mahaselvan](https://github.com/Mahaselvan)
+**Kathir Kaman K**
+Information Technology Student
+St. Joseph’s College of Engineering
 
 ---
 
