@@ -156,6 +156,3 @@ St. Joseph’s College of Engineering
 This project is developed for academic and demonstration purposes.
 
 ---
-
-
-Tell me what vibe you want 😄
