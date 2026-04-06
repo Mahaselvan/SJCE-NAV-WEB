@@ -18,7 +18,7 @@ This project helps students, visitors, and faculty easily locate departments, fa
 
 **SJCE-NAV-WEB** is a lightweight front-end web application built using core web technologies.
 
-It provides campus wayfinding support by allowing users to:
+It provides campus navigation support by allowing users to:
 
 ✔ Select a department or facility
 ✔ Generate Google Maps directions
